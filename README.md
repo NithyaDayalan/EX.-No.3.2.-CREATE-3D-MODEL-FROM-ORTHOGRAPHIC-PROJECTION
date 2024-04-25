@@ -1,15 +1,15 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
-## AIM:
+## DATE :
+## AIM :
 To create a 3D model from given orthographic projection.
 
-## REQUIREMENTS:
+## REQUIREMENTS :
 1. Autodesk fusion 360
 2. Windows 10
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-## PROCEDURE:
+## PROCEDURE :
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
@@ -38,12 +38,14 @@ To create a 3D model from given orthographic projection.
 
 ![image](https://user-images.githubusercontent.com/113594316/198823415-9d0a9454-b197-44bf-b90f-179c75602500.png)
 
-## INPUT:
+## INPUT :
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
-## OUTPUT:
+## OUTPUT :
+![WhatsApp Image 2024-04-25 at 13 50 23_c8673db4](https://github.com/NithyaDayalan/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/166380061/469caf04-3149-4926-b7fd-cb65e23b56c0)
 
-## RESULT:
+
+## RESULT :
 Thus, 3D model is created from orthographic projection.
 
 
